@@ -18,3 +18,6 @@ This isn’t just a collection; it’s a community effort. Whether you’re:
 —There’s a place for you here.
 
 This is an open-source platform. Most importantly, that documentation is collected from various sectors of various people's contributions. Kudos to those who build those! I encourage you to share with everyone. I will add continuously if I find more about those. Also, share which materials you want so that I will try to mange those documentation and add. Feel free to contribute, collaborate, or use these materials to fuel your journey in tech. Let’s learn and build together! 💡
+
+
+![image](https://github.com/user-attachments/assets/8cd0b1f0-030d-46ff-8ece-accd245cf406)
