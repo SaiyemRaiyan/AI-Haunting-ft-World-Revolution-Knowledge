@@ -1,6 +1,6 @@
 # AI Haunting ft World Revolution Knowledge
 
-                              🚀 Sharing Knowledge, Empowering the Community! 🚀
+                                   🚀 Sharing Knowledge, Empowering the Community! 🚀
 
 The world of technology moves fast, but no one should be left behind. That’s why I’ve compiled a free, open-source repository of high-quality documentation on topics like AI, ML, DL, NLP, Data Science, Programming, Web Development, and more! 📚✨
 It is not possible or difficult to prepare for YouTube videos, or we waste our time finding documents on the internet. Whether you're a student, developer, or tech enthusiast, these well-organized documentation resources are here to help you learn and grow. 🌱
